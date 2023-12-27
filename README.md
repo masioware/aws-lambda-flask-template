@@ -29,3 +29,7 @@ Before you begin, make sure you have the following prerequisites installed:
    ```bash
    npm run deploy
    ```
+
+# Serverless WSGI Doc.
+
+https://www.serverless.com/plugins/serverless-wsgi
